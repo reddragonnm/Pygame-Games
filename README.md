@@ -1,2 +1,2 @@
-# chris-makes-games-with-pygame
-Join us in this journey to make some classic games as you gradually learn pygame!
+# gaming-with-pygame
+Join me in this journey to make some classic games as you gradually learn pygame!
